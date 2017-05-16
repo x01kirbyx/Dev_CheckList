@@ -2,14 +2,14 @@
 
 * **This is a list of Infomation that may be asked in an interview to become a full-stack web developer.**
 
--------------------------------------------------------------------
+---------------------------------------------------------------------
 -------> ##FRONT-END Development <-----------------------------------
--------------------------------------------------------------------
+---------------------------------------------------------------------
 
 * **Front-End web development is the portion of an application the user will see or interact with.**
-
-               ##HTML & CSS (HTML5-CSS3) 
-
+---------------------------------------------------------------------
+--------> HTML & CSS (HTML5-CSS3) <---------------------------------- 
+---------------------------------------------------------------------
 **(H)yper (T)ext (M)arkup (L)anguage & (C)ascading (S)tyle (S)heet**
 
 * **Semantic HTML (Semantic Element)** - Semantic is the meaning of words and phrases. But in this context is refers to elements
@@ -22,8 +22,9 @@
 4. Margain - This is the invisible space after the border. 
 
 
-* CSS Media Queries > Targets different devices and write responsive CSS
-* Bootstrap > 
+* **CSS Media Queries** - this is used to define different style rules for different media types and devices. Media Queries find the capabilitys of the device such as the width and height of the device, orientation, resolution and alot more and change it accordingly.
+
+**Bootstrap** - 
 ------------------------------------------------------------------
 --------> Javascript <--------------------------------------------
 ------------------------------------------------------------------
