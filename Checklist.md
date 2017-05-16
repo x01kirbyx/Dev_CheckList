@@ -1,6 +1,6 @@
 # Dev_CheckList
 
-This is a list of Infomation needed to become a full-stack web developer. 
+This is a list of Infomation that may be asked in an interview to become a full-stack web developer. 
 
 -------------------------------------------------------------------
 -------> FRONT-END Development <-----------------------------------
@@ -16,7 +16,11 @@ This is a list of Infomation needed to become a full-stack web developer.
 * Semantic HTML (Semantic Element) - Semantic is the meaning of words and phrases. But in this context is refers to elements
   that describe its meaning to the browser and developer. using semantic tags benefits us as it builds us a better structured                               website aswell as improving accessibility. examples of non-semantic tags could be \<div> or \<span> as both of these tell us    nothing about its content. Example of Semantic elements could be \<form>, \<table> and \<article> as these Clearly define its  content.
 
-* CSS box model - All elements that are displayed on a browser have invisible boxes that surround it. The Content box is the center (Middle) of these boxes. Followed by padding then border then Margin.
+* CSS box model - All elements that are displayed on a browser have invisible boxes that surround it. The Content box is the center (Middle) of these boxes. Followed by padding then border then Margin. Box models allow us to add borders around elements and define the space between elements. 
+1. Content - This is where text or images will be displayed.
+2. Padding - This is the Invisible space between the content and the border.
+3. Border -  This is the border that goes around the exterior of the padding/content.
+4. Margain - This is the invisible space after the border. 
 
 
 * CSS Media Queries > Targets different devices and write responsive CSS
