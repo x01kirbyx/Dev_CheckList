@@ -14,7 +14,7 @@ This is a list of Infomation needed to become a full-stack web developer.
 (H)yper (T)ext (M)arkup (L)anguage & (C)ascading (S)tyle (S)heet
 
 * Semantic HTML (Semantic Element) - Semantic is the meaning of words and phrases. But in this context is refers to elements
-  that describe its meaning to the browser and developer. using semantic tags benefits us as it builds us a better structured                               website aswell as improving accessibility. examples of non-semantic tags could be "<div> or <span>" as both of these tell us    nothing about its content. Example of Semantic elements could be <form>, <table> and <article> as these Clearly define its  content.
+  that describe its meaning to the browser and developer. using semantic tags benefits us as it builds us a better structured                               website aswell as improving accessibility. examples of non-semantic tags could be <div> or <span> as both of these tell us    nothing about its content. Example of Semantic elements could be <form>, <table> and <article> as these Clearly define its  content.
 
 * CSS box model - All elements that are displayed on a browser have invisible boxes that surround it. The Content box is the center (Middle) of these boxes. Followed by padding then border then Margin.
 
