@@ -3,7 +3,7 @@
 * **This is a list of Infomation that may be asked in an interview to become a full-stack web developer.**
 
 ---------------------------------------------------------------------
--------> ##FRONT-END Development <-----------------------------------
+-------> FRONT-END Development <-------------------------------------
 ---------------------------------------------------------------------
 
 * **Front-End web development is the portion of an application the user will see or interact with.**
@@ -16,28 +16,38 @@
   that describe its meaning to the browser and developer. using semantic tags benefits us as it builds us a better structured                               website aswell as improving accessibility. examples of non-semantic tags could be \<div> or \<span> as both of these tell us    nothing about its content. Example of Semantic elements could be \<form>, \<table> and \<article> as these Clearly define its  content.
 
 * **CSS box model** - All elements that are displayed on a browser have invisible boxes that surround it. The Content box is the center (Middle) of these boxes. Followed by padding then border then Margin. Box models allow us to add borders around elements and define the space between elements. 
-1. Content - This is where text or images will be displayed.
-2. Padding - This is the Invisible space between the content and the border.
-3. Border -  This is the border that goes around the exterior of the padding/content.
-4. Margain - This is the invisible space after the border. 
+1. **Content** - This is where text or images will be displayed.
+2. **Padding** - This is the Invisible space between the content and the border.
+3. **Border** -  This is the border that goes around the exterior of the padding/content.
+4. **Margain** - This is the invisible space after the border. 
 
 
-* **CSS Media Queries** - this is used to define different style rules for different media types and devices. Media Queries find the capabilitys of the device such as the width and height of the device, orientation, resolution and alot more and change it accordingly.
+* **CSS Media Queries** - This is used to define different style rules for different media types and devices. Media Queries find the capabilitys of the device such as the width and height of the device, orientation, resolution and alot more and change it accordingly.
 
-**Bootstrap** - 
-------------------------------------------------------------------
---------> Javascript <--------------------------------------------
-------------------------------------------------------------------
-Javascript is the only language that runs on the browser, and can double up as a server side language.
+* **Using Frameworks to build code (Bootstrap, Foundation)** - This is an application framework that Assists you working on HTML, CSS and Javascript code with pre-made code, Libaries, and methods to better organize. 
+---------------------------------------------------------------------
+--------> Javascript <-----------------------------------------------
+---------------------------------------------------------------------
+* **Javascript is the only language that runs on the browser, and can double up as a server side language.**
+
 * Understand how to work with DOM.
+
 * Understand what JSON isand how to manipulate it.
+
 * Important language features such as functional composition, prototypal inheritance, closures, event delegation, scope, higher-order functions.
+
 * Asynchronous control flow, promises, and callbacks.
+
 * Learn how to properly structure your code and modularize parts of it, things like webpack, browserify, or build tools like gulp will definitely be helpful to know.
+
 * Know one Popular framework (Express, sails or KOA)
+
 * know a popular Libary (React or AngularJS)
+
 * Understand how to use JQuery
+
 * Learn latest Javascript feactures (ES6)
+
 ------------------------------------------------
 --------> BACK-END Development <----------------
 ------------------------------------------------
