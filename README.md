@@ -1,19 +1,24 @@
 # Dev_CheckList
 
+This is a list of Infomation needed to become a full-stack web developer. 
+
 -------------------------------------------------------------------
 -------> FRONT-END Development <-----------------------------------
 -------------------------------------------------------------------
 
-Front-End web development is the portion of an application the user will see or interact with.
+* Front-End web development is the portion of an application the user will see or interact with.
 
 ------------------------------------------------------------------
 -------> HTML & CSS (HTML5-CSS3) <--------------------------------
 ------------------------------------------------------------------
 (H)yper (T)ext (M)arkup (L)anguage & (C)ascading (S)tyle (S)heet
-* Semantic HTML (Semantic Markup) - is the meaning of words and phrases in the language that the developer and browser.
+
+* Semantic HTML (Semantic Element) - Semantic is the meaning of words and phrases. But in this context is refers to elements
+  that describe its meaning to the browser and developer. using semantic tags benefits us as it builds us a better structured                               website aswell as improving accessibility. examples of non-semantic tags could be "<div> or <span>" as both of these tell us    nothing about its content. Example of Semantic elements could be <form>, <table> and <article> as these Clearly define its  content.
+
+* CSS box model - All elements that are displayed on a browser have invisible boxes that surround it. The Content box is the center (Middle) of these boxes. Followed by padding then border then Margin.
 
 
-* CSS box model >
 * CSS Media Queries > Targets different devices and write responsive CSS
 * Bootstrap > 
 ------------------------------------------------------------------
