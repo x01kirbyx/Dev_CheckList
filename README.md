@@ -9,7 +9,7 @@ Front-End web development is the portion of an application the user will see or 
 ------------------------------------------------------------------
 -------> HTML & CSS (HTML5-CSS3) <--------------------------------
 ------------------------------------------------------------------
-(H)yper (T)ext (M)arkup (L)anguage 
+(H)yper (T)ext (M)arkup (L)anguage & (C)ascading (S)tyle (S)heet
 * Semantic HTML (Semantic Markup) - is the meaning of words and phrases in the language that the developer and browser.
 
 
