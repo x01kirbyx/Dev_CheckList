@@ -1,12 +1,12 @@
 # Dev_CheckList
 
-This is a list of Infomation that may be asked in an interview to become a full-stack web developer. 
+* **This is a list of Infomation that may be asked in an interview to become a full-stack web developer.**
 
 -------------------------------------------------------------------
 -------> FRONT-END Development <-----------------------------------
 -------------------------------------------------------------------
 
-* Front-End web development is the portion of an application the user will see or interact with.
+* **Front-End web development is the portion of an application the user will see or interact with.**
 
 ------------------------------------------------------------------
 -------> HTML & CSS (HTML5-CSS3) <--------------------------------
