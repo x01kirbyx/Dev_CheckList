@@ -28,9 +28,9 @@
 ---------------------------------------------------------------------
 --------> Javascript <-----------------------------------------------
 ---------------------------------------------------------------------
-* **Javascript is the only language that runs on the browser, and can double up as a server side language.**
+* **JavaScript is a programming language that allows you to add complex things onto the web pages. This could be displaying timely content updates, interactive maps or animated 2D/3D graphics etc. Javascript is the only language that runs on the browser, and can double up as a server side language.**
 
-* Understand how to work with DOM.
+* **Working with DOMS (D)ocument (O)bject (M)odel.** When a web page is loaded, the browser creates a Document Object Model of the page.
 
 * Understand what JSON isand how to manipulate it.
 
