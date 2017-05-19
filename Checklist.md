@@ -32,7 +32,7 @@
 
 * **Working with DOMS (D)ocument (O)bject (M)odel.** When a web page is loaded, the browser creates a Document Object Model of the page.
 
-* Understand what JSON isand how to manipulate it.
+* **Working with JSON (J)ava(S)cript (O)bject (N)otation.** JSON is an independant language for storing and exchanging data. for example converting JavaScript objects into JSON and sending it to the server. Or retrieving the objects from the server and converting it into JavaScript.
 
 * Important language features such as functional composition, prototypal inheritance, closures, event delegation, scope, higher-order functions.
 
