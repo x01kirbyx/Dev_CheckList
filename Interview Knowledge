@@ -34,19 +34,31 @@
 
 * **Working with JSON (J)ava(S)cript (O)bject (N)otation.** JSON is an independant language for storing and exchanging data. for example converting JavaScript objects into JSON and sending it to the server. Or retrieving the objects from the server and converting it into JavaScript.
 
-* Important language features such as functional composition, prototypal inheritance, closures, event delegation, scope, higher-order functions.
+* **Working with functional compositions.** This is the process of combining two or more functions to produce a new function. This makes workflow more efficiant.  
 
-* Asynchronous control flow, promises, and callbacks.
+* **Working with prototypal inheritance.**
 
-* Learn how to properly structure your code and modularize parts of it, things like webpack, browserify, or build tools like gulp will definitely be helpful to know.
+* **Working with closures.**
 
-* Know one Popular framework (Express, sails or KOA)
+* **Working with event delegations.**
 
-* know a popular Libary (React or AngularJS)
+* **Working with scopes.**
 
-* Understand how to use JQuery
+* **Working with higher-order functions.** 
 
-* Learn latest Javascript feactures (ES6)
+* **Working with Asynchronous control flows.**
+
+promises, and callbacks.
+
+* **How to properly structure your code and modularize parts of it.** 
+
+* **Javascript frameworks.**
+
+* **Javascript Libary.**
+
+* **Working with JQuery.**
+
+* **latest Javascript feactures (ES6)
 
 ------------------------------------------------
 --------> BACK-END Development <----------------
